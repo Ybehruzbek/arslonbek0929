@@ -1,0 +1,53 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.sayt
+{
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+}
+
+.header h1
+{
+  color: blue;
+  background-color: red;
+  padding: 20px;
+  text-align: center;
+  font-size: 35px;
+}
+.content
+{
+    background-color: black;
+}
+
+.content h2
+{
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+.content img
+{
+  margin-left: 350px;
+}
+
+.content p
+{
+    color: antiquewhite;
+    padding: 20px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 20px;
+}
+.footer h4
+{
+    text-align: center;
+    color: aqua;
+    background-color: grey;
+    padding: 20px;
+}
